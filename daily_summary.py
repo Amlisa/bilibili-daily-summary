@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 # 保存路径
-SUMMARY_FOLDER = "/Users/moca/Documents/笔记/研究生/Blisummary"
+SUMMARY_FOLDER = "填写你的保存路径"
 
 # 获取脚本所在目录
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
